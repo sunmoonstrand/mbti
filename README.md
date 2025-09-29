@@ -2,6 +2,8 @@
 
 一个现代化的在线 MBTI（Myers-Briggs Type Indicator）性格测试应用，帮助用户了解自己的性格类型。
 
+Qoder 做的，不知道准不准，但确实丑。
+
 ![MBTI测试](https://img.shields.io/badge/MBTI-性格测试-blue)
 ![React](https://img.shields.io/badge/React-18.3.1-61dafb)
 ![Vite](https://img.shields.io/badge/Vite-5.3.4-646cff)
